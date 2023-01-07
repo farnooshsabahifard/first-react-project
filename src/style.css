@@ -1,0 +1,19 @@
+body{
+    direction: rtl;
+}
+.section{
+    margin-right: 10px;
+}
+.section .banner img{
+    width: 167px;
+    height: 245px;
+}
+.special , .new{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+
+h3{
+    margin-right: 10px;
+}
